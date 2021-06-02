@@ -1,6 +1,8 @@
 # Proyecto web 2 con laravel
 
 Este proyecto fue contruido con el framework de desarrollo web de php Laravel
+Se trata de un porgrama que le permita al doctor de turno registrar la información del paciente como datos principales, causa de la consulta, diagnóstico del doctor, se le preguntará un formulario al usuario con preguntas básicas para identificar si tiene COVID-19 o no!
+
 para la correcta ejecucion de este proyecto se deberan seguir los siguientes pasos:
 
 # requisitos
